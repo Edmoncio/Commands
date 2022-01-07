@@ -1,0 +1,8 @@
+--Command for remove files or folder 
+    Link for more information: https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/
+    
+    Commad for remove files in general 
+        -rm 'File name'
+        -rm * (Remove all files in the folder)
+
+--Commad for see all files
