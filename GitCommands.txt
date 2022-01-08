@@ -3,5 +3,7 @@
 
 -git commit -m "commit message" = create new version 
 -git init = start git
--git add nameFile or * = add files who you want to save
+-git add fileName or * = add files who you want to save
 -git log = see all versions
+-git diff fileName = For see all the changes form this file
+-git checkout fileName = Roll back to the las version commited
