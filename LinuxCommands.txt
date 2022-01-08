@@ -6,3 +6,4 @@
         -rm * (Remove all files in the folder)
 
 --Commad for see all files
+    -ls -a for see secret and normal files

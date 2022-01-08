@@ -1,0 +1,4 @@
+****VIM Commas*****
+
+- :q! = Quit without saving
+- :x! or :wq = save

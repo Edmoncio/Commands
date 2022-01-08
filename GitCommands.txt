@@ -1,0 +1,7 @@
+***Git Status***
+
+
+-git commit -m "commit message" = create new version 
+-git init = start git
+-git add nameFile or * = add files who you want to save
+-git log = see all versions
