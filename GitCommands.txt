@@ -7,3 +7,5 @@
 -git log = see all versions
 -git diff fileName = For see all the changes form this file
 -git checkout fileName = Roll back to the las version commited
+-git rm --cached -r fileName = remove files from git status area
+-git clone url = for download one repostery

@@ -1,4 +1,5 @@
 ****VIM Commas*****
 
 - :q! = Quit without saving
-- :x! or :wq = save
+- :x! or :wq = save and quit.
+- :w = save document.
