@@ -1,2 +1,3 @@
 ******Node commands******
 
+nodemon init = for start nodemon in your web project.
