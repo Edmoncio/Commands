@@ -9,3 +9,6 @@
 -git checkout fileName = Roll back to the las version commited
 -git rm --cached -r fileName = remove files from git status area
 -git clone url = for download one repostery
+-git branch branchName = create new branch
+-git branch = for see list of the branch you have
+-git checkout branchName = for change to another branch
