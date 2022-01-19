@@ -13,4 +13,4 @@
 -git branch = for see list of the branch you have
 -git checkout branchName = for change to another branch
 -git merge branchName = to add you branch to your master
--git push origin msater = to push your projet to git online
+-git push origin master -u = to push your projet to git online
