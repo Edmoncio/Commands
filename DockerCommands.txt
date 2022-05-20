@@ -1,0 +1,12 @@
+**** Docker commands ****
+
+---Docker status---
+
+- sudo systemctl status docker: This command is for see the status of docker(enable, disable)
+- sudo systemctl enable --now docker : For make docker enable
+- sudo systemctl  'start or stop' docker : For stop or start docker(you will have this message Warning: Stopping docker.service, but it c		an still be activated by:   docker.socket so you need this other command:
+		 sudo systemctl stop docker.socket)
+
+---Docker instances---
+- sudo docker ps -a: This command is for see all the instances you have in docker
+- sudo docker start 'id': With this command you will start the instance you want
