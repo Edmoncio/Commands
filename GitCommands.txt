@@ -8,13 +8,16 @@
 -git diff fileName = For see all the changes form this file
 -git checkout fileName = Roll back to the las version commited
 -git rm --cached -r fileName = remove files from git status area
--git clone url = for download one repostery
+-git clone url = for download one repository
+
+
+
+***Branches***
 -git branch branchName = create new branch
 -git branch = for see list of the branch you have
 -git checkout branchName = for change to another branch
 -git merge branchName = to add you branch to your master
-<<<<<<< HEAD
 -git push origin master = to push your projet to git online
-=======
 -git push origin master -u = to push your projet to git online
->>>>>>> 7f850ece150a3f0ad4ad32d8af26219f17b62ede
+-git push -u origin branchName: Useful when you whant to push a branch on your repository
+-git push --all: This is for push all the branches that you have
