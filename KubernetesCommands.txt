@@ -1,0 +1,11 @@
+How to deploy Pods
+-kubectl run (pod name) --image (parameter) = deploy docker container by creating a pod 
+-=kubectl run nginx --image nginx 
+
+How to see the list of pods available 
+-kubectl get pods
+-kubectl get pods -o wide : see more information about the pod
+
+How to get more information about the pod 
+-kubectl describe (pod name)
+-=kubectl describe pod nginx
